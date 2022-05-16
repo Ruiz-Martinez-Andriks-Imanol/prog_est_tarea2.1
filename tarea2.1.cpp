@@ -1,22 +1,22 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 10/02/2022
+/* Autor: Andriks Imanol Ruiz M谩rtinez, Realizado: 10/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructurada
 Ciclo: 01/2022
 
-Este es un programa en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
   
     -Variables enteras y flotantes
     -printf para mostrar mensajes y variables
     -scanf
-    -El uso de include para las librer韆s
+    -El uso de include para las librer铆as
     -Condicionales
-    -Espaciado \t y el salt ode rengl髇 \n
-    -Comentarios para la documentaci髇 interna del programa
+    -Espaciado \t y el salt ode rengl贸n \n
+    -Comentarios para la documentaci贸n interna del programa
 */
 #include<stdio.h>
 int main() {
-	//Declaraci髇 de variables
+	//Declaraci贸n de variables
 	int servicio, cuenta;
 	float minutos, descuento=0, total, dia, noche;
 	//Proceso
