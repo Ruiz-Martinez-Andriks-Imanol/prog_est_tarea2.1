@@ -11,7 +11,7 @@ Muestra el uso de:
     -scanf
     -El uso de include para las librerías
     -Condicionales
-    -Espaciado \t y el salt ode renglón \n
+    -Espaciado \t y el salto de renglón \n
     -Comentarios para la documentación interna del programa
 */
 #include<stdio.h>
